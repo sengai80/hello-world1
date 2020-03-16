@@ -1,4 +1,4 @@
 db:
-  connection: "{connectionString:'http://....',userName:'username',password:'pass'}"
+  connection: "{connectionString updating:'http://....',userName:'username',password:'pass'}"
   ipAddress: 10.11.12.1
   port: 2020
